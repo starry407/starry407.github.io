@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>starry的碎碎念</title>
+  
+  
+  <link href="https://starry.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://starry.github.io/"/>
+  <updated>2023-03-15T06:47:00.931Z</updated>
+  <id>https://starry.github.io/</id>
+  
+  <author>
+    <name>starry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo+github小白教程</title>
+    <link href="https://starry.github.io/2023/03/15/hexo-github%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/"/>
+    <id>https://starry.github.io/2023/03/15/hexo-github%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</id>
+    <published>2023-03-15T06:34:59.000Z</published>
+    <updated>2023-03-15T06:47:00.931Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo-github-pages搭建个人博客小白详细教程"><a href="#hexo-github-pages搭建个人博客小白详细教程" class="headerlink" title="hexo+github pages搭建个人博客小白详细教程"></a>hexo+github pages搭建个人博客小白详细教程</h1><p>[TOC]</p><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="github账号"><a href="#github账号" class="headerlink" title="github账号"></a>github账号</h3><ul><li><a href="https://github.com/">官网</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119086305">安装教程</a></li></ul><h3 id="下载安装git"><a href="#下载安装git" class="headerlink" title="下载安装git"></a>下载安装git</h3><ul><li><a href="https://gitforwindows.org/">git下载地址</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119085413">git安装教程</a></li></ul><h3 id="下载安装hode-js"><a href="#下载安装hode-js" class="headerlink" title="下载安装hode.js"></a>下载安装hode.js</h3><ul><li><a href="https://nodejs.org/zh-cn/download/">node.js下载地址</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119084295">node.is安装教程</a></li></ul><h2 id="搭建github仓库"><a href="#搭建github仓库" class="headerlink" title="搭建github仓库"></a>搭建github仓库</h2><h3 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h3><ol><li>申请一个新的代码仓库用于保存网页</li></ol><ul><li>点击 <font>your repositories</font>,进入仓库页面</li><li>​点击<font>New</font>按钮，进入仓库创建页面</li><li>填写仓库名，格式必须为<font>&lt;用户名&gt;.github.io</font>，然后点击<font>Create repository</font></li><li>点击<font>creating a new file</font>创建一个新文件，作为我们网站的主页</li><li>GitHub <font>Pages</font>中找到我们主页的地址为 <a href="https://starry407.github.io/">https://starry407.github.io/</a></li></ul><p>##配置SSH key<br>###测试是否成功<br>##使用hexo写博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;hexo-github-pages搭建个人博客小白详细教程&quot;&gt;&lt;a href=&quot;#hexo-github-pages搭建个人博客小白详细教程&quot; class=&quot;headerlink&quot; title=&quot;hexo+github pages搭建个人博客小白详细教程&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://starry.github.io/2023/03/15/hexo+github%20pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B0%8F%E7%99%BD%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
+    <id>https://starry.github.io/2023/03/15/hexo+github%20pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B0%8F%E7%99%BD%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
+    <published>2023-03-15T06:10:40.491Z</published>
+    <updated>2023-03-15T06:22:34.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>#hexo+github pages搭建个人博客小白详细教程<br>[TOC]<br>##准备工作<br>###github账号</p><ul><li><a href="https://github.com/">官网</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119086305">安装教程</a></li></ul><p>###下载安装git</p><ul><li><a href="https://gitforwindows.org/">git下载地址</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119085413">git安装教程</a></li></ul><p>###下载安装hode.js</p><ul><li><a href="https://nodejs.org/zh-cn/download/">node.js下载地址</a></li><li><a href="https://blog.csdn.net/yaorongke/article/details/119084295">node.is安装教程</a></li></ul><p>##搭建github仓库<br>###创建仓库</p><ol><li>申请一个新的代码仓库用于保存网页</li></ol><ul><li>点击 <font>your repositories</font>,进入仓库页面<br><a href="https://img-blog.csdnimg.cn/e47a4f36fcbb421a8245aefdd184423f.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lhb3JvbmdrZQ==,size_16,color_FFFFFF,t_70">https://img-blog.csdnimg.cn/e47a4f36fcbb421a8245aefdd184423f.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lhb3JvbmdrZQ==,size_16,color_FFFFFF,t_70</a></li><li>​点击<font>New</font>按钮，进入仓库创建页面</li><li>填写仓库名，格式必须为<font>&lt;用户名&gt;.github.io</font>，然后点击<font>Create repository</font></li><li>点击<font>creating a new file</font>创建一个新文件，作为我们网站的主页</li><li>GitHub <font>Pages</font>中找到我们主页的地址为 <a href="https://starry407.github.io/">https://starry407.github.io/</a></li></ul><p>##配置SSH key<br>###测试是否成功<br>##使用hexo写博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#hexo+github pages搭建个人博客小白详细教程&lt;br&gt;[TOC]&lt;br&gt;##准备工作&lt;br&gt;###github账号&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;官网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://starry.github.io/2023/03/14/hello/"/>
+    <id>https://starry.github.io/2023/03/14/hello/</id>
+    <published>2023-03-14T07:59:58.000Z</published>
+    <updated>2023-03-14T08:19:16.654Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用时ia</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;使用时ia&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://starry.github.io/2023/03/14/hello-world/"/>
+    <id>https://starry.github.io/2023/03/14/hello-world/</id>
+    <published>2023-03-14T05:43:43.587Z</published>
+    <updated>2023-03-14T05:43:43.587Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
